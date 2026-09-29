@@ -2,7 +2,7 @@
 
 Ciljano osvežavanje sajta.
 
-**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [English](README.md)
+**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [Studija: Detailing 016](https://webrefreshstudio.com/studije/detailing-016-mobilni-cenovnik/) · [English](README.md)
 
 > [!NOTE]
 > Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
@@ -10,7 +10,7 @@ Ciljano osvežavanje sajta.
 <table>
   <tr><td><b>Vrsta</b></td><td>Ciljano osvežavanje sajta</td></tr>
   <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>20 canonical stranica</td></tr>
+  <tr><td><b>Javne rute</b></td><td>22 canonical stranica</td></tr>
   <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
   <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ Interfejs radi kao kinetički sto za podešavanje. Menta vodilice, površine boj
 - Fokusiran pregled koji razdvaja osvežavanje od potpunog redizajna
 - Primeri korekcija hijerarhije, mobilnog prikaza, teksta i puta do kontakta
 - Pokret podešavanja vezan za vidljive odluke pre i posle
-- Deset srpskih i deset engleskih canonical ruta
+- Jedanaest srpskih i jedanaest engleskih canonical ruta
 - Obim zasnovan na potvrđenim problemima umesto opšteg paketa redizajna
 
 ## Provere izdanja

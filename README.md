@@ -2,7 +2,7 @@
 
 A website refresh service for focused changes to hierarchy, mobile usability, content and conversion paths.
 
-**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [Srpski](README.sr.md)
+**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [Detailing 016 case study](https://webrefreshstudio.com/en/case-studies/detailing-016-mobile-price-list/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ A website refresh service for focused changes to hierarchy, mobile usability, co
 <table>
   <tr><td><b>Type</b></td><td>Targeted website improvement</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>20 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>22 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ The interface works like a kinetic calibration desk. Mint guides, plum surfaces 
 - A focused audit that separates refresh work from full redesign
 - Examples of hierarchy, mobile, copy and contact-path corrections
 - Calibration motion tied to visible before-and-after decisions
-- Ten Serbian and ten English canonical routes
+- Eleven Serbian and eleven English canonical routes
 - Scope based on verified issues rather than a generic redesign package
 
 ## Release checks
