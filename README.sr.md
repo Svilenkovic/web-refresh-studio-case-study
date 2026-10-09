@@ -1,42 +1,58 @@
+<a href="https://webrefreshstudio.com/"><img src="media/cover.jpg" alt="Web Refresh Studio, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # Web Refresh Studio
 
-Ciljano osvežavanje sajta.
+Sajt za male, ciljane popravke postojećeg sajta, sa procenom u šest pitanja koja odvaja osvežavanje od redizajna.
 
-**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [Studija: Detailing 016](https://webrefreshstudio.com/studije/detailing-016-mobilni-cenovnik/) · [English](README.md)
+**[webrefreshstudio.com](https://webrefreshstudio.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/web-refresh-studio) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Ciljano osvežavanje sajta</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>22 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Ciljane popravke postojećih sajtova</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Nekim sajtovima treba precizna intervencija umesto nove osnove. Projekat pomaže da se odredi najmanji koristan skup izmena, poput jasnije hijerarhije, boljeg prikaza na telefonu ili kraćeg puta do kontakta.
+Nije svaki problem razlog za redizajn. Nekad treba srediti cenovnik na telefonu, sliku koja usporava stranu ili dugme koje ne radi sa tastature. Web Refresh Studio pomaže da se obim odredi pre prve izmene.
 
-## Dizajn pravac
+Kinetička kompozicija pomera male, vidljive delove interfejsa, što odgovara ideji sajta: zadržati ono što radi i popraviti ono što pravi stvaran problem. Procena u šest pitanja priprema razgovor o obimu; ne meri sajt i nije automatska ponuda. Kao primer sam uzeo Detailing 016, gde je ključna izmena bio cenovnik po klasama vozila koji se lepo čita na telefonu.
 
-Interfejs radi kao kinetički sto za podešavanje. Menta vodilice, površine boje šljive i žuti markeri koriguju razmak, tipografiju i akcije korak po korak.
+## Šta sam uradio
 
-## Šta je urađeno
+- Procena u šest pitanja koja odvaja malu popravku od izmene strukture
+- Strane o prikazu na telefonu, brzini i pristupačnosti
+- Studija o mobilnom cenovniku za Detailing 016
+- Prirodan skrol na telefonu, a uz smanjeno kretanje ništa se ne pomera
+- Obim po problemima nađenim na sajtu, bez opšteg paketa
 
-- Fokusiran pregled koji razdvaja osvežavanje od potpunog redizajna
-- Primeri korekcija hijerarhije, mobilnog prikaza, teksta i puta do kontakta
-- Pokret podešavanja vezan za vidljive odluke pre i posle
-- Jedanaest srpskih i jedanaest engleskih canonical ruta
-- Obim zasnovan na potvrđenim problemima umesto opšteg paketa redizajna
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Organization`, `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="Web Refresh Studio, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="Web Refresh Studio, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Šest pitanja pre prve izmene">
+<sub>Šest pitanja pre prve izmene</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>
